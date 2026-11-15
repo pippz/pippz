@@ -30,13 +30,9 @@ NASA Space Apps Challenge 2026
 An interactive Mars exploration project developed for the NASA Space Apps Challenge 2026, combining geospatial data, mapping and 3D visualization.
 In this project I worked on the QGIS part creating the 5 map view options of Jezero crater (Mars Imagery, Elevation, Contour Lines, Slope and Geologic map) and the 3D model. I also helped on the integration of the GeoTIFF and GeoJSON files on JavaScript for the website.
 
-**[Personal portfolio](https://pippz.github.io/)**  
-![Live](https://img.shields.io/badge/status-live-52525B?style=flat-square&labelColor=303037)
+**Personal portfolio**  
 
 A minimal space for my projects and experiments, built with HTML, CSS and JavaScript.
 
 ---
 
-### 03 / elsewhere
-
-[Portfolio](https://pippz.github.io/) · [GitHub](https://github.com/pippz)
